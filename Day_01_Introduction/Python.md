@@ -1,4 +1,4 @@
-## Apa Itu Python? 
+## Apa Itu Python ? 
 Python adalah bahasa pemrograman tingkat tinggi yang bersifat dinamis dan mendukung berbagai paradigma pemrograman seperti pemrograman berorientasi objek.
 
 ## 
