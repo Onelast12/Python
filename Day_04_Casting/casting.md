@@ -14,5 +14,7 @@
 - set() – Mengubah tipe data menjadi set.
 
 ## Fungsi type() -> mengetahui tipe data pada sebuah variabel
+```
 a = 5 #bilangan integer
 print(type(a)) # Output: <class 'int'>
+```
