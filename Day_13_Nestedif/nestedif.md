@@ -1,4 +1,4 @@
-# Day 13
+# Day 13 Nested if
 # Belajar tentang if bersarang (nested if statements) di Python adalah langkah penting untuk memahami alur kontrol yang lebih kompleks.
 # Nested if adalah kondisi if yang diletakkan di dalam blok kode if atau kondisi lainnya.
 
