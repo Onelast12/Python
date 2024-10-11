@@ -17,8 +17,8 @@ else:
  - Jika tidak menggunakan indentasi dengan benar, Python akan mengeluarkan error IndentationError.
  - Note: Biasanya indentasi menggunakan 4 spasi atau 1 tab.
 
-
-```Contoh indentasi dengan benar
+*Contoh indentasi dengan benar*
+```
 umur = 16
 if umur >= 18:
     print("Anda sudah dewasa.")  # Baris ini diindentasi
@@ -26,7 +26,8 @@ if umur >= 18:
 else:
     print("Anda masih di bawah umur.")  # Baris ini juga diindentasi
  ```
-```Contoh indentasi salah
+*Contoh indentasi salah*
+```
 umur = 16
 if umur >= 18:
     print("Anda sudah dewasa.")  # Baris ini diindentasi
